@@ -1,0 +1,9 @@
+.navtext{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.navtext:hover{
+    opacity: 80%;
+}
